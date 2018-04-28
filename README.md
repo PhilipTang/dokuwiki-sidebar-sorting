@@ -1,5 +1,3 @@
-# too-sort
-
 ## 排序目标
 
 - [排序前](sort.input)
